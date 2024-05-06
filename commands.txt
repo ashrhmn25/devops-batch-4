@@ -4,3 +4,4 @@ git clone
 geit origin -v
 git pull
 git fetch
+more changes
