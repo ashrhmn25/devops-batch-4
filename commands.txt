@@ -10,3 +10,4 @@ git log --oneline --pretty
 git config --global user.name "<YouUserName>"
 git congig --global user.email "<YourEmailId>"
 Committing after settin up global values.
+git checkout -b
