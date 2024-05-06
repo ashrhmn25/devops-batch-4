@@ -5,3 +5,4 @@ geit origin -v
 git pull
 git fetch
 more changes
+git push
