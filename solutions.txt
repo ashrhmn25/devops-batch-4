@@ -1,0 +1,2 @@
+Added the command
+Cloned the repo and forked the repo
