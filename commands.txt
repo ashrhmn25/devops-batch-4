@@ -6,3 +6,4 @@ git pull
 git fetch
 more changes
 git push
+test from local
